@@ -9,7 +9,7 @@ title:               'erratic northern gibbon'
 tagline:             ''
 description:         'some stuff'
 url:                 https://ambivalenta.pe
-baseurl:             ''
+baseurl:             
 paginate:            5
 
 # About/contact
