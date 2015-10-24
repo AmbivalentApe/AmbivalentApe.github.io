@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               'erratic northern gibbon' 
+tagline:             ''
+description:         'some stuff'
+url:                 https://ambivalenta.pe
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Phil Anderson
+  url:               https://twitter.com/ambivalentape
+  email:             devnull@ambivalenta.pe
+  twitter:	     https://twitter.com/ambivalentape
+  github:	     https://github.com/ambivalentape
+  keybase:	     https://keybase.io/ambivalentape
+  linkedin:	     https://keybase.io/ambivalentape
+
+# Custom vars
+version:             1.0.0
